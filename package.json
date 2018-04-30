@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Le0C/test-perspective/issues"
   },
-  "homepage": "https://github.com/Le0C/test-perspective#readme"
+  "homepage": "https://github.com/Le0C/test-perspective#readme",
+  "dependencies": {
+    "three": "^0.92.0"
+  }
 }
